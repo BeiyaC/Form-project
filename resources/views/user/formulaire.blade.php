@@ -11,6 +11,8 @@
                 <div class="form-group">
                     <label for="firstname">Firstname</label>
                     <input type="text" class="form-control" name="firstname" id="firstname" placeholder="firstname">
+                    <label for="lastname">Lastname</label>
+                    <input type="text" class="form-control" name="lastname" id="lastname" placeholder="lastname">
                 </div>
                 <div class="form-group">
                     <label for="gender">Gender</label>
